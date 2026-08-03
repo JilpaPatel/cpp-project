@@ -1,4 +1,4 @@
-// Array Operation
+// Array Operation(Insertion, deletion , searching, Display, Accessing 
 
 #include<iostream>
 using namespace std;
