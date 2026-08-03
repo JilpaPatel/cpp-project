@@ -1,3 +1,5 @@
+// Stack operation( push(), pop(), peek(), empty(), full()
+
 #include<iostream>
 using namespace std;
 const int Max = 5;
