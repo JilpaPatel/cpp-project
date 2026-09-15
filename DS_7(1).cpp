@@ -13,8 +13,8 @@ struct node *first = NULL;
 
 struct node* create_node(int x)
 {
-    node *temp = new node;
-
+    struct node *temp;
+    temp = new node;
     temp->info = x;
     temp->next = NULL;
 
